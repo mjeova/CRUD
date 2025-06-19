@@ -1,6 +1,6 @@
 # Projeto CRUD com React e Node.js
 
-Esse é um projetinho que eu desenvolvi para praticar e reforçar meus conhecimentos em **React** no frontend e **Node.js com Express** no backend.
+Esse é um projeto que eu desenvolvi juntamente a uma video aula no Youtube para praticar e reforçar meus conhecimentos em **React** no frontend e **Node.js com Express** no backend.
 A ideia foi criar um sistema simples de cadastro de usuários com operações básicas de CRUD: criar, listar, editar e deletar.
 
 ## 🔧 Tecnologias usadas
